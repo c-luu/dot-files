@@ -1,0 +1,3 @@
+set relativenumber number
+colorscheme elflord
+syntax on
