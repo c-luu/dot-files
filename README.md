@@ -6,5 +6,5 @@
 ### Setup
 
 1. Clone into your repo directory
-2. cd into ~/ and remove .vim or vimfiles directories and .vimrc or _vimrc
+2. Remove .vim or vimfiles directories and .vimrc or _vimrc from $HOME
 3. ln -s ~/yourRepoDirectory/dotfiles/vim ~/.vim (or ~/vimfiles if Windows)
