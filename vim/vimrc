@@ -1,3 +1,7 @@
+execute pathogen#infect()
+execute pathogen#helptags()
+
+filetype plugin indent on
 set relativenumber number
-colorscheme celtics_away
+colorscheme elflord
 syntax on
