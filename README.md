@@ -3,8 +3,14 @@
 * Git Bash (if on Windows)
 * Vim 7.4
 
-### Setup
+### *nix Setup
 
-1. Clone into your repo directory
-2. Remove .vim or vimfiles directories and .vimrc or _vimrc from $HOME
-3. ln -s ~/yourRepoDirectory/dotfiles/vim ~/.vim (or ~/vimfiles if Windows)
+1. Clone into ~/yourRepoDirectory/...
+2. Remove .vim directory and .vimrc 
+3. ln -s ~/yourRepoDirectory/dotfiles/vim ~/.vim 
+
+### Windows Setup
+1. Clone into ~/yourRepoDirectory/...
+2. Remove vimfiles directory and .vimrc 
+3. ln -s ~/yourRepoDirectory/dotfiles/vim ~/vimfiles
+
