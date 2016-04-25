@@ -13,4 +13,5 @@
 1. Clone into ~/yourRepoDirectory/...
 2. Remove vimfiles directory and .vimrc 
 3. ln -s ~/yourRepoDirectory/dotfiles/vim ~/vimfiles
+	1. If permission issues: [read here.] (http://www.dotnetsurfers.com/blog/2013/10/15/using-the-same-vimrc-with-multiple-operating-systems)
 
