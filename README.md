@@ -11,7 +11,7 @@
 
 ### Windows Setup
 1. Clone into ~/yourRepoDirectory/...
-2. Remove vimfiles directory and .vimrc 
+2. Remove vimfiles directory and \_vimfiles 
 3. ln -s ~/yourRepoDirectory/dotfiles/vim ~/vimfiles
 	1. If permission issues: [read here.] (http://www.dotnetsurfers.com/blog/2013/10/15/using-the-same-vimrc-with-multiple-operating-systems)
 4. If submodules are empty, call git submodule init and git submodule update
