@@ -8,6 +8,7 @@
 1. Clone into ~/yourRepoDirectory/...
 2. Remove ~/.vim directory and ~/.vimrc 
 3. ln -s ~/yourRepoDirectory/dotfiles/vim ~/.vim 
+4. 4. If submodules are empty, call git submodule init && git submodule update
 
 ### Windows Setup
 1. Clone into ~/yourRepoDirectory/...
