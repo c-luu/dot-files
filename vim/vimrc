@@ -5,3 +5,5 @@ filetype plugin indent on
 set relativenumber number
 colorscheme elflord
 syntax on
+
+let g:notes_directories = ['~/Dropbox/Notes']
