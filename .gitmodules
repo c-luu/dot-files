@@ -2,10 +2,6 @@
 	path=vim/bundle/vim-ps1
 	url=https://github.com/PProvost/vim-ps1.git
 
-[submodule "python-mode"]
-	path = vim/bundle/python-mode
-	url = https://github.com/klen/python-mode.git
-
 [submodule "vim-colors-solarized"]
 	path = vim/bundle/vim-colors-solarized
 	url = git://github.com/altercation/vim-colors-solarized.git
