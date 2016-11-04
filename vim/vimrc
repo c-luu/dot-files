@@ -8,7 +8,5 @@ set relativenumber number
 set clipboard=unnamed
 
 " Colors
-set background=dark
-colorscheme solarized
-" colorscheme elflord
+colorscheme elflord
 
