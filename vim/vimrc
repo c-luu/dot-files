@@ -5,7 +5,7 @@ set relativenumber number
 set clipboard=unnamed
 
 " Colors
-colorscheme elflord
+colorscheme murphy
 
 " Tab Settings
 set tabstop=4       " The width of a TAB is set to 4.
